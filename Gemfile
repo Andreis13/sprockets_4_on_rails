@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 gem 'rails', github: "rails/rails", branch: "master"
 gem 'sprockets-rails', github: "Andreis13/sprockets-rails", branch: "sprockets-4"
-gem 'sprockets', github: "rails/sprockets", branch: "4.x"
+gem 'sprockets', github: "Andreis13/sprockets", branch: "master"
 gem 'arel', github: "rails/arel"
 
 # Use sqlite3 as the database for Active Record
